@@ -18,8 +18,7 @@ public class ElectricityApp {
         int units = sc.nextInt();
 
         ElectricityConnection connection = new ElectricityConnection(id, name, units);
-        
-
+                
         connection.displayBill();
 
         sc.close();

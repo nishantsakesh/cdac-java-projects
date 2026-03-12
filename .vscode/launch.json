@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TaskSystem",
+            "request": "launch",
+            "mainClass": "TaskSystem",
+            "projectName": "CDAC_Projects_7ef51008"
+        },
+        {
+            "type": "java",
             "name": "ElectricityApp",
             "request": "launch",
             "mainClass": "ElectricityApp",

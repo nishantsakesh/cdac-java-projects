@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "onlineFoodOrderSystem.Main",
+            "projectName": "CDAC_Projects_7ef51008"
+        },
+        {
+            "type": "java",
+            "name": "studentApp",
+            "request": "launch",
+            "mainClass": "studentApp",
+            "projectName": "CDAC_Projects_7ef51008"
+        },
+        {
+            "type": "java",
             "name": "TaskSystem",
             "request": "launch",
             "mainClass": "TaskSystem",

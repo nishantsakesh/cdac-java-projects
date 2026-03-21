@@ -1,3 +1,5 @@
+package bank_account_simulator01;
+
 import java.util.Scanner;
 
 public class BankApp {

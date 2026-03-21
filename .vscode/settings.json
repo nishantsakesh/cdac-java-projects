@@ -1,3 +1,10 @@
 {
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "collections-projects/Task_management_system",
+        "collections-projects/StudentCourseRegistrationSystem",
+        "collections-projects/Library_Book_Management_System",
+        "collections-projects",
+        "oops_project"
+    ]
 }
